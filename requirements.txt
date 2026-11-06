@@ -1,0 +1,22 @@
+# KrishiMitra AI: Multilingual Indian Agricultural Advisory Assistant
+# Course: CS3235 - Undergraduate LLM / Multimodal AI Project
+# Frameworks: BharatGen AgriParam, AI4Bharat Indic Technologies
+
+# Core Deep Learning & NLP
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+rank-bm25>=0.2.2
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Speech & Translation I/O
+gTTS>=2.5.0
+soundfile>=0.12.1
+
+# Generative AI & Orchestration
+groq>=0.9.0
+pydantic>=2.0.0
+
+# Web Application & Evaluation UI
+gradio>=5.0.0
