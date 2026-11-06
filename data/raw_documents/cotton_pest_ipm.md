@@ -36,3 +36,4 @@ Pink Bollworm attacks flowers, squares, and developing bolls. Larvae feed inside
 - Rainfed cotton: 60:30:30 kg N:P2O5:K2O per hectare.
 - Irrigated/Bt Hybrid cotton: 120:60:60 kg N:P2O5:K2O per hectare.
 - Split application: 20% N at sowing, 40% N at squaring (45 DAS), 40% N at peak flowering (75 DAS). Foliar spray of 1% KNO3 (Potassium Nitrate) twice during boll development reduces square drop.
+

@@ -46,3 +46,4 @@ class IndicSpeechSynthesizer:
         except Exception as e:
             print(f"[TTS] Warning: Speech synthesis failed ({e}). Audio output unavailable.")
             return None
+

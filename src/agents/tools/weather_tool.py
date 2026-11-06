@@ -54,3 +54,4 @@ class AgroWeatherAdvisor:
                 "Avoid spraying between 12:00 PM and 3:00 PM under direct hot sun."
             ]
         }
+

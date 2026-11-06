@@ -46,3 +46,4 @@
   - Micronutrients: Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (Bo).
   - Physical parameters: pH, Electrical Conductivity (EC), Organic Carbon (OC).
 - Accompanied by crop-wise customized fertilizer dosage recommendations to curb wasteful over-application of Urea.
+

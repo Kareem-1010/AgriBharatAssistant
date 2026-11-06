@@ -123,3 +123,4 @@ class IndicTransManager:
             return res
 
         return text
+

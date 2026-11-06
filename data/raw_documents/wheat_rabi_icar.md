@@ -42,3 +42,4 @@ Wheat requires 4 to 6 irrigations depending on soil type. If water is limited, p
 ### B. Karnal Bunt (*Neovossia indica*)
 - **Symptoms**: Partial conversion of wheat grain into black foul-smelling powder (fishy odor due to trimethylamine).
 - **Control Measure**: Single foliar spray of Propiconazole 25% EC @ 200 ml/acre at earhead emergence stage if humid cloudy weather prevails.
+

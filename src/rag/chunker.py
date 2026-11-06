@@ -104,3 +104,4 @@ class AgriculturalChunker:
             chunks = self.chunk_document(file_path)
             all_chunks.extend(chunks)
         return all_chunks
+

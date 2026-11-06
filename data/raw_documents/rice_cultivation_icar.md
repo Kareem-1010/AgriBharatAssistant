@@ -48,3 +48,4 @@
 - **Control Measure**:
   - Avoid excess urea and drain excess field water.
   - Foliar spray of Streptocycline @ 6 g + Copper Oxychloride 50 WP @ 300 g in 200 L water per acre. Repeat after 10-12 days if required.
+

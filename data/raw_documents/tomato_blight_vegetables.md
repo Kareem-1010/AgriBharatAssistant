@@ -36,3 +36,4 @@
 - **Symptom**: Water-soaked lesion on the blossom end of the fruit turning dark sunken and leathery.
 - **Cause**: Calcium deficiency exacerbated by irregular soil moisture or excessive nitrogen.
 - **Correction**: Maintain even irrigation; foliar spray of Calcium Nitrate @ 2-3 g/L twice at fruit expansion stage.
+

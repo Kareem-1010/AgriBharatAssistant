@@ -1,5 +1,5 @@
 """
-KrishiMitra AI - Main Application Launcher
+KrishiMitra AI - Enterprise Launcher
 CS3235 Undergraduate LLM / Multimodal AI Project
 """
 import sys
@@ -11,11 +11,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from app.ui import create_ui
 
 if __name__ == "__main__":
-    print("=" * 65)
-    print("🌾 Starting KrishiMitra AI: Indian-Language Farmer Advisory Assistant")
+    print("=" * 70)
+    print("🌾 Launching KrishiMitra AI: National Multilingual Farmer Advisory System")
     print("🌾 Models & Frameworks: BharatGen AgriParam + AI4Bharat")
-    print("🌾 Interface: Gradio Multilingual Web UI on http://127.0.0.1:7860")
-    print("=" * 65)
+    print("🌾 Frontend: Enterprise Gradio 6.0 Web Application")
+    print("🌾 URL: http://127.0.0.1:7860")
+    print("=" * 70)
 
-    app, theme = create_ui()
-    app.launch(server_name="127.0.0.1", server_port=7860, share=False, theme=theme)
+    app, css = create_ui()
+    app.launch(server_name="127.0.0.1", server_port=7860, share=False, css=css)

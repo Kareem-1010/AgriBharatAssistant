@@ -30,3 +30,4 @@ class BM25AgriculturalRetriever:
             if scores[idx] > 0.0:
                 results.append((self.chunks[idx], float(scores[idx])))
         return results
+

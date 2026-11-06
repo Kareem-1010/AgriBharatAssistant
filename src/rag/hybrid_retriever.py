@@ -56,3 +56,4 @@ class HybridAgriculturalRetriever:
             final_chunks.append(item)
 
         return final_chunks
+

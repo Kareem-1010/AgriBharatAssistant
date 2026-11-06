@@ -82,3 +82,4 @@ class NPKFertilizerCalculator:
             "application_schedule": rdf["splits"],
             "micronutrient_tip": "Apply 10 kg/acre Zinc Sulphate (21%) as basal if soil zinc is deficient. Do not mix zinc with DAP."
         }
+

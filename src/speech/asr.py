@@ -41,3 +41,4 @@ class IndicSpeechRecognizer:
 
         # Simulated transcription indicator for testing environment
         return f"[Transcribed Audio ({lang})]: Farmer voice query from {Path(audio_path).name}"
+

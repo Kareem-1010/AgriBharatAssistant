@@ -31,3 +31,4 @@
 - Recommended RDF: 250 kg N : 115 kg P2O5 : 115 kg K2O per hectare.
 - Basal: Full P2O5 and 50% K2O with 25% Nitrogen.
 - Top-Dressing: Nitrogen applied in three split doses at 45, 90, and 120 DAS. Complete all nitrogen application before final earthing up (120 DAS) to prevent late tillering and watery canes.
+

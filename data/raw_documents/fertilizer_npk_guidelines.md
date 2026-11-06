@@ -47,3 +47,4 @@ Farmers should adjust RDF based on Soil Health Card fertility ratings:
 ## 4. Micronutrient Applications
 - **Zinc Deficiency**: Highly prevalent in Indian alluvial and calcareous soils. Apply 10 kg/acre Zinc Sulphate (21% Zn) as basal once every 2 years. Do not mix Zinc Sulphate directly with DAP in the same fertilizer tank, as it forms insoluble Zinc Phosphate precipitate.
 - **Boron**: For cauliflower, tomato, sunflower and mustard, apply Borax @ 4 kg/acre to prevent hollow stem and flower drop.
+

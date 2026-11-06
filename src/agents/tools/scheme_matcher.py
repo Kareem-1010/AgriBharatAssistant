@@ -67,3 +67,4 @@ class GovernmentSchemeMatcher:
             "pm_kisan_notes": "Eligible for ₹6,000/year" if pm_kisan_eligible else f"Ineligible: {', '.join(reasons)}",
             "schemes_details": self.SCHEMES
         }
+

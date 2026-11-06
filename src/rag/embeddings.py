@@ -88,3 +88,4 @@ class MultilingualEmbeddings:
         for idx in top_indices:
             results.append((chunks[idx], float(scores[idx])))
         return results
+
